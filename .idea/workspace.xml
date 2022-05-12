@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="starting the setup for various backend stuffs">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Shpotify3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Shpotify3.iml" afterDir="false" />
+    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="working on some testing stuff">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/.idea/Shpotify3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/.idea/Shpotify3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +42,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/nicho/Downloads/javafx-sdk-18.0.1/lib",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652318504213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="working on some testing stuff">
+      <created>1652337248466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652337248466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="starting the setup for various backend stuffs" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting the setup for various backend stuffs" />
+    <MESSAGE value="working on some testing stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on some testing stuff" />
   </component>
 </project>
