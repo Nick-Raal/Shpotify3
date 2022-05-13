@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="working on some testing stuff">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/.idea/Shpotify3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/.idea/Shpotify3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/main.class" afterDir="false" />
-    </list>
+    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="working on some testing stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,23 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/nicho/Downloads/javafx-sdk-18.0.1/lib",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/openjfx-18.0.1_windows-x86_bin-sdk/javafx-sdk-18.0.1/src.zip" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Shpotify3" />
-      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules=javafx.base,javafx.controls,javafx.graphics,javafx.media" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Nicholas Raal\Downloads\openjfx-18.0.1_windows-x86_bin-sdk\javafx-sdk-18.0.1\lib&quot; --add-modules javafx.controls,javafx.base,javafx.fxml,javafx.graphics,javafx.media,javafx.web --add-opens=javafx.graphics/javafx.scene=ALL-UNNAMED --add-exports javafx.base/com.sun.javafx.event=ALL-UNNAMED" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,5 +119,15 @@
     <MESSAGE value="starting the setup for various backend stuffs" />
     <MESSAGE value="working on some testing stuff" />
     <option name="LAST_COMMIT_MESSAGE" value="working on some testing stuff" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
