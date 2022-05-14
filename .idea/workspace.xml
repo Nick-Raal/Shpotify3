@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="i think there might be some issues with javafx but i'm working on it">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/main.class" afterDir="false" />
-    </list>
+    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="idk really know what this is" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +34,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/nicho/Downloads/openjfx-18.0.1_windows-x64_bin-sdk/javafx-sdk-18.0.1/src.zip",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
@@ -101,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652337924439</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed javafx isssues">
+      <created>1652502773719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652502773719</updated>
+    </task>
+    <task id="LOCAL-00005" summary="idk really know what this is">
+      <created>1652502862698</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652502862698</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +121,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/backendSetup" />
+                        <option value="backendSetup" />
                       </list>
                     </value>
                   </entry>
@@ -151,6 +157,8 @@
     <MESSAGE value="starting the setup for various backend stuffs" />
     <MESSAGE value="working on some testing stuff" />
     <MESSAGE value="i think there might be some issues with javafx but i'm working on it" />
-    <option name="LAST_COMMIT_MESSAGE" value="i think there might be some issues with javafx but i'm working on it" />
+    <MESSAGE value="fixed javafx isssues" />
+    <MESSAGE value="idk really know what this is" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk really know what this is" />
   </component>
 </project>
