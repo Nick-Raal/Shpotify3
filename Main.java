@@ -1,4 +1,7 @@
+import javafx.scene.Cursor;
+import javafx.scene.Group;
 import javafx.scene.Scene;
+import javafx.scene.control.Button;
 import javafx.scene.layout.VBox;
 import javafx.scene.web.WebView;
 import javafx.stage.Stage;
@@ -14,11 +17,9 @@ public class Main extends Application{
         primaryStage.setTitle("test");
 
         WebView webView = new WebView();
-
-        webView.getEngine().load("https://www.youtube.com/embed/fHI8X4OXluQ");
-        VBox vbox = new VBox(webView);
+        webView.getEngine().load("https://www.youtube.com/embed/P6bVl47kdNk");
+        VBox vbox = new VBox(webView, new Button("something"));
         Scene scene = new Scene(vbox, 960, 600);
-
         primaryStage.setScene(scene);
         primaryStage.show();
     }
