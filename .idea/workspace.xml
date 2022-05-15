@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="removed stuff added for testing">
+    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="fucking around">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/Song.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/Testing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652503221875</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fucking around">
+      <created>1652504850214</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652504850214</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +185,7 @@
     <MESSAGE value="idk really know what this is" />
     <MESSAGE value="idk really know what this is 2" />
     <MESSAGE value="removed stuff added for testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed stuff added for testing" />
+    <MESSAGE value="fucking around" />
+    <option name="LAST_COMMIT_MESSAGE" value="fucking around" />
   </component>
 </project>
