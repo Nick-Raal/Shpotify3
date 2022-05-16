@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Song.java" afterDir="false" />
+    <list default="true" id="a819306d-1bc3-4c9b-8ba1-b3503c9d667d" name="Changes" comment="fucking around">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shpotify3/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shpotify3/main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +38,32 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "C:/Users/nicho/Downloads/openjfx-18.0.1_windows-x64_bin-sdk/javafx-sdk-18.0.1/src.zip",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Shpotify3" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\nicho\Downloads\openjfx-18.0.1_windows-x64_bin-sdk\javafx-sdk-18.0.1\lib&quot; --add-modules javafx.controls,javafx.base,javafx.fxml,javafx.graphics,javafx.media,javafx.web " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="Shpotify3" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules=javafx.controls,javafx.fxml" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -66,6 +76,70 @@
       <option name="presentableId" value="Default" />
       <updated>1652203640640</updated>
     </task>
+    <task id="LOCAL-00001" summary="starting the setup for various backend stuffs">
+      <created>1652318504213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652318504213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="working on some testing stuff">
+      <created>1652337248466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652337248466</updated>
+    </task>
+    <task id="LOCAL-00003" summary="i think there might be some issues with javafx but i'm working on it">
+      <created>1652337924439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652337924439</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed javafx isssues">
+      <created>1652502773719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652502773719</updated>
+    </task>
+    <task id="LOCAL-00005" summary="idk really know what this is">
+      <created>1652502862698</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652502862698</updated>
+    </task>
+    <task id="LOCAL-00006" summary="idk really know what this is 2">
+      <created>1652503077364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652503077364</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removed stuff added for testing">
+      <created>1652503221875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652503221875</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fucking around">
+      <created>1652504850214</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652504850214</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fucking around">
+      <created>1652598342273</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652598342273</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,10 +147,53 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="backendSetup" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/backendSetup" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="starting the setup for various backend stuffs" />
+    <MESSAGE value="working on some testing stuff" />
+    <MESSAGE value="i think there might be some issues with javafx but i'm working on it" />
+    <MESSAGE value="fixed javafx isssues" />
+    <MESSAGE value="idk really know what this is" />
+    <MESSAGE value="idk really know what this is 2" />
+    <MESSAGE value="removed stuff added for testing" />
+    <MESSAGE value="fucking around" />
+    <option name="LAST_COMMIT_MESSAGE" value="fucking around" />
   </component>
 </project>
